@@ -12,7 +12,7 @@ The pack is deliberately linear by default:
 2. `hermes-seo-research` — buyer language, intent/query clusters, visible SERPs, competitors, content gaps, and AI-search readiness.
 3. `hermes-seo-audit` — bounded technical, indexability, on-page, internal-link, and rendered-schema review.
 4. `hermes-seo-strategy` — prioritization, roadmap, architecture, internal linking, programmatic SEO guardrails, and content briefs.
-5. `hermes-seo-copywriting` — new review-ready copy from an approved brief and approved claims.
+5. `hermes-seo-copywriting` — new publication-ready copy from a writing-ready brief and available evidence.
 6. `hermes-seo-editing` — evidence-led refreshes of existing copy.
 
 This preserves the useful source-project separation between AI SEO, audit, architecture, schema, programmatic SEO, strategy, writing, and editing, while removing non-SEO marketing skills, vendor/tool assumptions, and duplicated context-gathering.
@@ -42,8 +42,8 @@ No credentials are required for the public research path. Do not place credentia
 3. Give the agent one business, one domain or topic, and one measurable business goal.
 4. Invoke the orchestrator and request a bounded research or audit stage, not a full-site crawl. OpenSEO is the default data system for keyword, SERP, competitor, gap, domain, AI-visibility, and available GSC/URL-inspection evidence.
 5. Review the evidence inventory and select one opportunity.
-6. Invoke strategy to produce a brief, including a source plan and owner/expert attribution opportunity.
-7. Invoke copywriting or editing only with approved claims. Use Firecrawl MCP or Perplexity MCP to discover sources, verify the underlying sources, cite them, and perform an authority and human-author pass. Use an owner/expert quote and internal bio/team-page link only when genuine and approved.
+6. Invoke strategy to produce a writing-ready brief, including a source plan and an optional owner/expert attribution opportunity.
+7. Invoke copywriting or editing with the available research and brief. Use Firecrawl MCP or Perplexity MCP to discover sources, verify the underlying sources, cite them, and perform an authority and human-author pass. Use a real owner/expert quote and internal bio/team-page link when available and accurate; otherwise complete the draft using specific, evidence-led expert framing.
 8. Review the draft. Approve any CMS, code, Search Console, outreach, account connection, spending, or publishing action separately.
 
 ## Default-tool contract

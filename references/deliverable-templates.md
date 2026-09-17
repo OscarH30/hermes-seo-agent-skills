@@ -54,9 +54,9 @@ Owner / expert attribution plan:
 
 Verified internal link to owner / expert page, if applicable:
 
-Claims approved for use:
+Evidence-backed claims available for use:
 
-Claims requiring review:
+Claims to soften, omit, or confirm:
 
 Suggested page structure:
 
@@ -81,11 +81,11 @@ Acceptance criteria:
 - Uses no invented claims.
 - Has a clear next action.
 - Includes source links for factual claims.
-- Uses an approved owner/expert quote only when available and accurately attributed.
+- Uses a real owner/expert quote when available and accurately attributed; otherwise uses specific evidence-led expert framing.
 - Links to a verified owner/expert bio or team page only when contextually useful.
 - Passes the human-author review: specific, natural, non-formulaic, and free of empty SEO filler.
 - Fits approved voice.
-- Receives subject-matter and brand review before publication.
+- Lists only the claims that need subject-matter or brand confirmation before publication.
 
 ## Copy draft delivery
 
@@ -96,7 +96,7 @@ Start with a short rationale that names the audience, page job, source limits, a
 - Full sectioned draft.
 - Metadata candidates.
 - Internal-link and schema suggestions as implementation notes, not deployed changes.
-- A review list: source verification, quote/attribution approval, expert-link accuracy, unsupported claims, legal/compliance questions, missing proof, human-author quality, and publication approvals required.
+- A review list: source verification, quote accuracy when used, expert-link accuracy when used, unsupported claims, legal/compliance questions, missing proof, human-author quality, and publication approvals required.
 
 ## Content edit delivery
 

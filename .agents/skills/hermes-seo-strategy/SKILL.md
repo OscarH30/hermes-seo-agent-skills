@@ -1,6 +1,6 @@
 ---
 name: hermes-seo-strategy
-description: "Use when validated SEO research or audit findings need prioritization, a content roadmap, site architecture, internal-link plan, programmatic SEO guardrails, schema specification, or a content brief. Trigger on 'SEO strategy,' 'content roadmap,' 'content brief,' 'topic cluster,' 'site architecture,' 'internal linking,' or 'programmatic SEO.' Turns evidence into an approved-ready plan; it never deploys changes."
+description: "Use when validated SEO research or audit findings need prioritization, a content roadmap, site architecture, internal-link plan, programmatic SEO guardrails, schema specification, or a content brief. Trigger on 'SEO strategy,' 'content roadmap,' 'content brief,' 'topic cluster,' 'site architecture,' 'internal linking,' or 'programmatic SEO.' Turns evidence into a writing-ready plan; it never deploys changes."
 license: MIT
 metadata:
   author: Vindex Consulting
@@ -26,10 +26,10 @@ Turn a bounded research or audit handoff into a practical plan. Do not create st
 4. Design hubs, spokes, navigation, URL direction, and contextual internal links only where they improve a user path and findability. Keep important pages reachable through ordinary navigation.
 5. For structured data, specify only markup that matches visible content and official eligibility. A specification is not deployed markup.
 6. For programmatic SEO, require differentiated, accurate value per page, preferably proprietary/product-derived data, an ownership model, and a small manually reviewed pilot.
-7. Build one content brief per selected asset: audience; intent/query theme; page job; unique angle; source plan; business-owner or subject-matter-expert source/link opportunity; approved claims; claims requiring review; outline; internal links; conversion action; metadata direction; acceptance criteria; and approval gates.
+7. Build one content brief per selected asset: audience; intent/query theme; page job; unique angle; source plan; business-owner or subject-matter-expert source/link opportunity; evidence-backed claims; claims to soften, omit, or confirm; outline; internal links; conversion action; metadata direction; acceptance criteria; and publication approval gates. Treat owner/expert input as an optional authority enhancement, not a prerequisite for writing.
 
 ## Deliverable
 
 Return a prioritized roadmap plus content briefs for only the approved highest-value assets. Each roadmap row needs: opportunity; evidence; owner; dependency; effort; measurement; review point; and approval-required action.
 
-Hand an approved brief and approved claims to `hermes-seo-copywriting`. Hand existing copy needing a refresh to `hermes-seo-editing`.
+Hand a writing-ready brief and available evidence to `hermes-seo-copywriting`. Hand existing copy needing a refresh to `hermes-seo-editing`.

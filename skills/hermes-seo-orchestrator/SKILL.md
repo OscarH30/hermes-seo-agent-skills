@@ -23,7 +23,7 @@ Coordinate a human-supervised SEO workflow. Do not attempt every stage at once. 
 1. No evidence inventory, audience, conversion goal, or search landscape yet: use `hermes-seo-research`.
 2. The question is why an existing site/page is underperforming or needs an SEO health check: use `hermes-seo-audit`.
 3. Validated opportunities or audit findings need prioritization, page architecture, or a content brief: use `hermes-seo-strategy`.
-4. An approved brief and approved claims need a new draft: use `hermes-seo-copywriting`.
+4. A writing-ready brief and available evidence need a new draft: use `hermes-seo-copywriting`.
 5. Existing copy needs improvement or a refresh: use `hermes-seo-editing`.
 
 If the user asks for a full SEO project, begin with a bounded research or audit stage, not a full crawl or mass content plan.
