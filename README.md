@@ -1,6 +1,6 @@
 # Hermes SEO Agent Skills
 
-Status: DRAFT. Vindex training asset for the Agentic Society live Hermes SEO-agent session. It is not published and is not an Agentic Society operating record.
+Status: PUBLISHED. Vindex training asset for the Agentic Society live Hermes SEO-agent session. Public repository: `https://github.com/OscarH30/hermes-seo-agent-skills`. It is not an Agentic Society operating record.
 
 ## Why this is a skill pack, not one mega-skill
 
@@ -19,10 +19,10 @@ This preserves the useful source-project separation between AI SEO, audit, archi
 
 ## Install all skills in Hermes
 
-After GitHub publication, a trainee needs only the repository URL:
+To install, a trainee needs only the repository URL:
 
 ```bash
-git clone https://github.com/OWNER/hermes-seo-agent-skills.git
+git clone https://github.com/OscarH30/hermes-seo-agent-skills.git
 cd hermes-seo-agent-skills
 hermes skills trust .
 ```
